@@ -6,7 +6,7 @@ int power(int n){
        return 1;
 
     // recursive relation
-    return 2 * power(n - 1);
+    return 2 * power(n - 1);            
 }
 int main(){
     int n;
@@ -14,3 +14,8 @@ int main(){
     int ans=power(n);
     cout<<ans<<endl;
 }
+
+        // Output
+// Given the number Randomly 
+// 4
+//16
