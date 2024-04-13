@@ -27,3 +27,8 @@ int main()
 
     return 0;
 }
+
+          // Output
+// Given the number Randomly 
+// 4!
+//24
